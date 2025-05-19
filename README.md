@@ -2,7 +2,7 @@
 
 Unleash your inner fashionista with the **DTI Script**, your all-in-one style automation tool for *Dress To Impress*. Whether you want fast money, flashy skin, or VIP effects, this **keyless**, high-style script has everything you need to slay the runway.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/U-ziii/Dress-To-Impress-DTI-Script/blob/main/Dress%20To%20Impress%20-%20DTI%20Script.png)
 
 ---
 
